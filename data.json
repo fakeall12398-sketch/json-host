@@ -1,0 +1,62 @@
+[
+{
+"title": "Fancode Live",
+"imageUrl": "https://i.ibb.co/1fFkKQxR/x.jpg",
+"m3uLink": "https://raw.githubusercontent.com/drmlive/fancode-live-events/main/fancode.m3u"
+},
+{
+"title": "ZEE5",
+"imageUrl": "https://i.ibb.co/gLKgSWPw/x.jpg",
+"m3uLink": "https://secured786.netlify.app/zee5.m3u"
+},
+{
+"title": "TATA PLAY",
+"imageUrl": "https://i.ibb.co/nqY2HWGQ/x.jpg",
+"m3uLink": "https://secured786.netlify.app/tplay.m3u"
+},
+{
+"title": "SONY LIV",
+"imageUrl": "https://i.ibb.co/vC4xh11k/x.jpg",
+"m3uLink": "https://billatv.pages.dev/Sonyliv.m3u"
+},
+{
+"title": "JIO HOTSTAR",
+"imageUrl": "https://i.ibb.co/k2JqR86L/x.jpg",
+"m3uLink": "https://m3u-fetcher.vercel.app/hotstar.m3u"
+},
+{
+"title": "DISH TV",
+"imageUrl": "https://i.ibb.co/KxQ2hRHm/x.jpg",
+"m3uLink": "https://secured786.netlify.app/zee5"
+},
+{
+"title": "GOLDEN TV",
+"imageUrl": "https://i.ibb.co/qYX7dG1x/x.jpg",
+"m3uLink": "https://getapks.pages.dev/golden.m3u"
+},
+{
+"title": "SUN NXT 🌞",
+"imageUrl": "https://i.ibb.co/ds9RVk0H/x.jpg",
+"m3uLink": "https://m3u-fetcher.vercel.app/sunnxt.m3u"
+},
+{
+"title": "STARSHARE",
+"imageUrl": "https://i.ibb.co/8n2XSNCc/x.jpg",
+"m3uLink": "https://billatv.pages.dev/starshare.m3u"
+},
+{
+"title": "MOVIES(SERVER1)",
+"imageUrl": "https://i.ibb.co/gZGTxsJC/x.jpg",
+"m3uLink": "https://freelivtv.xyz/app/movies.php"
+},
+{
+"title": "MOVIES(SERVER 2)",
+"imageUrl": "https://i.ibb.co/gZGTxsJC/x.jpg",
+"m3uLink": "https://secured786.netlify.app/MOVIES%202027"
+},
+{
+"title": "OPPLEX TV",
+"imageUrl": "https://i.ibb.co/N6M4dwV9/x.jpg",
+"m3uLink": "https://getapks.pages.dev/opplex2.m3u"
+}
+]
