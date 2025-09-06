@@ -1,13 +1,15 @@
-[
+{
     "telegram": "https://t.me/ALPHADECODER",
-  {
-    "title": "JIO HOTSTAR",
-    "imageUrl": "https://i.ibb.co/k2JqR86L/x.jpg",
-    "m3uLink": "https://fakeall12398-sketch.github.io/JIO_TV/full_channels.json"
-  },
-  {
-    "title": "OPPLEX TV",
-    "imageUrl": "https://i.ibb.co/N6M4dwV9/x.jpg",
-    "m3uLink": "https://fakeall12398-sketch.github.io/JIO_TV/Opplex.json"
-  }
-]
+    "containers": [
+        {
+            "title": "JIO HOTSTAR",
+            "imageUrl": "https://i.ibb.co/k2JqR86L/x.jpg",
+            "m3uLink": "https://fakeall12398-sketch.github.io/JIO_TV/full_channels.json"
+        },
+        {
+            "title": "OPPLEX TV",
+            "imageUrl": "https://i.ibb.co/N6M4dwV9/x.jpg",
+            "m3uLink": "https://fakeall12398-sketch.github.io/JIO_TV/Opplex.json"
+        }
+    ]
+}
