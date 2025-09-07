@@ -15,6 +15,11 @@
         "title": "Airtel Tv",
         "imageUrl": "https://i.ibb.co/6JTD4LF8/Airtel.jpg",
         "m3uLink": "https://fakeall12398-sketch.github.io/JIO_TV/Anya.json"
+        },
+        {
+        "title": "WorldWide_1 Tv",
+        "imageUrl": "",
+        "m3uLink": "https://fakeall12398-sketch.github.io/JIO_TV/worldwide1.json"
         }
     ]
 }
