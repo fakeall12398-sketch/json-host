@@ -10,10 +10,11 @@
             "title": "OPPLEX TV",
             "imageUrl": "https://i.ibb.co/N6M4dwV9/x.jpg",
             "m3uLink": "https://fakeall12398-sketch.github.io/JIO_TV/Opplex.json"
-        }
+        },
         {
         "title": "Airtel Tv",
         "imageUrl": "https://i.ibb.co/6JTD4LF8/Airtel.jpg",
         "m3uLink": "https://fakeall12398-sketch.github.io/JIO_TV/Anya.json",
+        }
     ]
 }
