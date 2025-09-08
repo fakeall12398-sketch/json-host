@@ -14,7 +14,8 @@
         {
         "title": "Anya Tv",
         "imageUrl": "https://i.ibb.co/2Y1DGnxP/Anya.jpg",
-        "m3uLink": "https://fakeall12398-sketch.github.io/JIO_TV/Anya.json"
+        "m3uLink": "https://fakeall12398-sketch.github.io/JIO_TV/Anya.json",
+            "disabled": true
         },
         {
         "title": "WorldWide_1 Tv",
