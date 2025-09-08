@@ -12,10 +12,10 @@
             "m3uLink": "https://fakeall12398-sketch.github.io/JIO_TV/Opplex.json"
         },
         {
-        "title": "Anya Tv",
-        "imageUrl": "https://i.ibb.co/2Y1DGnxP/Anya.jpg",
-        "m3uLink": "https://fakeall12398-sketch.github.io/JIO_TV/Anya.json",
-            "disabled":true
+        "hidden_title": "Anya Tv",
+        "hidden_imageUrl": "https://i.ibb.co/2Y1DGnxP/Anya.jpg",
+        "hidden_m3uLink": "https://fakeall12398-sketch.github.io/JIO_TV/Anya.json"
+            
         },
         {
         "title": "WorldWide_1 Tv",
