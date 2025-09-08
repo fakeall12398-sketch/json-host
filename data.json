@@ -11,6 +11,13 @@
             "imageUrl": "https://i.ibb.co/rjx6jYz/OpplexTv.jpg",
             "m3uLink": "https://fakeall12398-sketch.github.io/JIO_TV/Opplex.json"
         },
+
+        {
+        "title": "Anya Tv",
+        "imageUrl": "https://i.ibb.co/2Y1DGnxP/Anya.jpg",
+        "m3uLink": "https://fakeall12398-sketch.github.io/JIO_TV/Anya.json"
+            
+        },
         {
         "title": "WorldWide_1 Tv",
         "imageUrl": "https://i.ibb.co/fdf8T746/Picsart-25-09-08-15-38-56-530.png",
