@@ -8,18 +8,23 @@
         },
         {
             "title": "OPPLEX TV",
-            "imageUrl": "https://i.ibb.co/N6M4dwV9/x.jpg",
+            "imageUrl": "https://i.ibb.co/rjx6jYz/OpplexTv.jpg",
             "m3uLink": "https://fakeall12398-sketch.github.io/JIO_TV/Opplex.json"
         },
         {
-        "title": "Airtel Tv",
-        "imageUrl": "https://i.ibb.co/6JTD4LF8/Airtel.jpg",
+        "title": "Anya Tv",
+        "imageUrl": "https://i.ibb.co/2Y1DGnxP/Anya.jpg",
         "m3uLink": "https://fakeall12398-sketch.github.io/JIO_TV/Anya.json"
         },
         {
         "title": "WorldWide_1 Tv",
-        "imageUrl": "",
+        "imageUrl": "https://i.ibb.co/Mk8NyQQc/6260499134612098149-120.jpg",
         "m3uLink": "https://fakeall12398-sketch.github.io/JIO_TV/worldwide1.json"
+        },
+        {
+        "title": "XFireFlix Tv",
+        "imageUrl": "https://i.ibb.co/L4dXMvZ/XFire-Flix.jpg",
+        "m3uLink": "https://fakeall12398-sketch.github.io/JIO_TV/fireflix.json"
         }
     ]
 }
