@@ -35,7 +35,11 @@
         "title": "Movie Time",
         "imageUrl": "https://i.ibb.co/0p59XzXt/cinema-background-concept-movie-theater-object-on-red-curtain-background-and-movie-time-with-electri.jpg",
         "m3uLink": "https://fakeall12398-sketch.github.io/JIO_TV/movie.json"
-        }
-        
+        },
+        {
+        "title": "WorldWide_2 Tv",
+        "imageUrl": "https://i.ibb.co/Mk8NyQQc/6260499134612098149-120.jpg",
+        "m3uLink": "https://fakeall12398-sketch.github.io/JIO_TV/worldwide2.json"
+        }    
     ]
 }
