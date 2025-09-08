@@ -25,6 +25,11 @@
         "title": "XFireFlix Tv",
         "imageUrl": "https://i.ibb.co/L4dXMvZ/XFire-Flix.jpg",
         "m3uLink": "https://fakeall12398-sketch.github.io/JIO_TV/fireflix.json"
+        },
+         {
+        "title": "TATA PLAY",
+        "imageUrl": "https://i.ibb.co/pjfGYqGg/Tata-Play-Binge.jpg",
+        "m3uLink": "https://fakeall12398-sketch.github.io/JIO_TV/tataplay.json"
         }
     ]
 }
