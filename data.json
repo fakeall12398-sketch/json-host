@@ -7,6 +7,11 @@
             "m3uLink": "https://fakeall12398-sketch.github.io/JIO_TV/full_channels.json"
         },
         {
+            "title": "Kids",
+            "imageUrl": "https://i.ibb.co/rfRmmvFT/71klaz-TZ5r-L.png",
+            "m3uLink": "https://fakeall12398-sketch.github.io/JIO_TV/kids.json"
+        },
+        {
             "title": "OPPLEX TV",
             "imageUrl": "https://i.ibb.co/rjx6jYz/OpplexTv.jpg",
             "m3uLink": "https://fakeall12398-sketch.github.io/JIO_TV/Opplex.json"
