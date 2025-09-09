@@ -37,6 +37,16 @@
         "m3uLink": "https://fakeall12398-sketch.github.io/JIO_TV/Full_File1.json"
         },
         {
+        "title": "Global Movies & Channels 2",
+        "imageUrl": "https://i.ibb.co/p6tz5sQ5/Picsart-25-09-09-11-21-26-823.jpg",
+        "m3uLink": "https://fakeall12398-sketch.github.io/JIO_TV/Full_File2.json"
+        },
+        {
+        "title": "Global Movies & Channels 3",
+        "imageUrl": "https://i.ibb.co/KSGR4tP/Picsart-25-09-09-11-21-34-604.jpg",
+        "m3uLink": "https://fakeall12398-sketch.github.io/JIO_TV/Full_File3.json"
+        },
+        {
         "title": "WorldWide_1 Tv",
         "imageUrl": "https://i.ibb.co/fdf8T746/Picsart-25-09-08-15-38-56-530.png",
         "m3uLink": "https://fakeall12398-sketch.github.io/JIO_TV/worldwide1.json"
