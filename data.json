@@ -25,11 +25,7 @@
         "title": "XFireFlix Tv",
         "imageUrl": "https://i.ibb.co/L4dXMvZ/XFire-Flix.jpg",
         "m3uLink": "https://fakeall12398-sketch.github.io/JIO_TV/fireflix.json"
-        },
-        {
-        "title": "Movie Time",
-        "imageUrl": "https://i.ibb.co/0p59XzXt/cinema-background-concept-movie-theater-object-on-red-curtain-background-and-movie-time-with-electri.jpg",
-        "m3uLink": "https://fakeall12398-sketch.github.io/JIO_TV/movie.json"
-        }          
+        }
+                  
     ]
 }
