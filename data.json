@@ -12,6 +12,11 @@
             "m3uLink": "https://fakeall12398-sketch.github.io/JIO_TV/kid.json"
         },
         {
+            "title": "SPORTS LIVE",
+            "imageUrl": "https://i.ibb.co/LhgXg8sk/Picsart-25-09-10-22-02-46-507.png",
+            "m3uLink": "https://fakeall12398-sketch.github.io/JIO_TV/CricHD.json"
+        },
+        {
             "title": "OPPLEX TV",
             "imageUrl": "https://i.ibb.co/rjx6jYz/OpplexTv.jpg",
             "m3uLink": "https://fakeall12398-sketch.github.io/JIO_TV/Opplex.json"
