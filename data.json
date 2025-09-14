@@ -9,7 +9,7 @@
         {
             "title": "JIO HOTSTAR",
             "imageUrl": "https://i.ibb.co/k2JqR86L/x.jpg",
-            "m3uLink": "https://fakeall12398-sketch.github.io/JIO_TV/full_channels.json"
+            "m3uLink": "https://secured786.netlify.app/.netlify/functions/fetch-json"
         },
         {
             "title": "Kids",
