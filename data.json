@@ -35,6 +35,12 @@
         "title": "Anya Tv",
         "imageUrl": "https://i.ibb.co/2Y1DGnxP/Anya.jpg",
         "m3uLink": "https://fakeall12398-sketch.github.io/JIO_TV/Anya.json"             
-        }            
+        },
+        {
+        "title": "Jio Tv",
+        "imageUrl": "https://i.ibb.co/6RqhBmJD/JioTV.jpg",
+        "m3uLink": "https://gist.githubusercontent.com/mitthu786/6719418610aa81997e72d6c27a6a2e39/raw/tsjiotvnew.json"             
+        }
+        
     ]
 }
