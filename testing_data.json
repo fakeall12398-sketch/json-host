@@ -40,6 +40,11 @@
         "title": "Jio Tv",
         "imageUrl": "https://i.ibb.co/6RqhBmJD/JioTV.jpg",
         "m3uLink": "https://fakeall12398-sketch.github.io/JIO_TV/Ts-JioTv.json"             
+        },
+        {
+        "title": "Jio Tv+",
+        "imageUrl": "https://i.ibb.co/6RqhBmJD/JioTV.jpg",
+        "m3uLink": "https://fakeall12398-sketch.github.io/JIO_TV/jstar.m3u"             
         }
         
     ]
