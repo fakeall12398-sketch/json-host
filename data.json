@@ -51,6 +51,11 @@
         "title": "Jio Tv",
         "imageUrl": "https://i.ibb.co/KxJxHmSH/Picsart-25-09-16-17-10-25-599.jpg",
         "m3uLink": "https://fakeall12398-sketch.github.io/JIO_TV/Ts-JioTv.json"             
+        },
+        {
+        "title": "IPL 2025 highlights",
+        "imageUrl": "https://iili.io/3Xzhb5u.png",
+        "m3uLink": "https://fakeall12398-sketch.github.io/JIO_TV/ipl 2025 highlights.m3u"             
         }
         
     ]
