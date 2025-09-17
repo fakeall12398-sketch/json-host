@@ -13,6 +13,11 @@
             "m3uLink": "https://fakeall12398-sketch.github.io/JIO_TV/full_channels.json"
         },
         {
+            "title": "Zee 5",
+            "imageUrl": "https://i.ibb.co/k2JqR86L/x.jpg",
+            "m3uLink": "https://fakeall12398-sketch.github.io/JIO_TV/zee.m3u"
+        },
+        {
             "title": "Kids",
             "imageUrl": "https://i.ibb.co/Ps2t37Sq/Picsart-25-09-16-17-19-16-803.jpg",
             "m3uLink": "https://fakeall12398-sketch.github.io/JIO_TV/kid.json"
