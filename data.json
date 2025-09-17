@@ -53,9 +53,14 @@
         "m3uLink": "https://fakeall12398-sketch.github.io/JIO_TV/Ts-JioTv.json"             
         },
         {
-        "title": "IPL 2025 highlights",
+        "title": "IPL 2025 HIGHLIGHTS",
         "imageUrl": "https://iili.io/3Xzhb5u.png",
         "m3uLink": "https://fakeall12398-sketch.github.io/JIO_TV/ipl 2025 highlights.m3u"             
+        },
+        {
+        "title": "IPL 2025 REPLAY",
+        "imageUrl": "https://iili.io/3p9SScv.png",
+        "m3uLink": "https://fakeall12398-sketch.github.io/JIO_TV/ipl 2025 replay.m3u"             
         }
         
     ]
