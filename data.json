@@ -8,6 +8,11 @@
     "m3uLink": "https://fakeall12398-sketch.github.io/JIO_TV/live_events.json"
   },
         {
+    "title": "Sports TV",
+    "imageUrl": "https://i.ibb.co/wNPT9YLr/Picsart-25-09-17-20-04-43-490.jpg",
+    "m3uLink": "https://fakeall12398-sketch.github.io/JIO_TV/sports.m3u"
+  },
+        {
             "title": "JIO HOTSTAR",
             "imageUrl": "https://i.ibb.co/k2JqR86L/x.jpg",
             "m3uLink": "https://fakeall12398-sketch.github.io/JIO_TV/full_channels.json"
