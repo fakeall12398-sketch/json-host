@@ -18,6 +18,12 @@
             "imageUrl": "https://i.ibb.co/k2JqR86L/x.jpg",
             "m3uLink": "https://fakeall12398-sketch.github.io/JIO_TV/full_channels.json"
         },
+        
+        {
+            "title": "TATA BD",
+            "imageUrl": "https://i.ibb.co/7tDnfZ6G/tata-play-ltd-logo.jpg",
+            "m3uLink": "https://fakeall12398-sketch.github.io/JIO_TV/Tplay-&-Artl-.m3u"
+        },
         {
             "title": "Zee 5",
             "imageUrl": "https://i.ibb.co/gLKgSWPw/x.jpg",
