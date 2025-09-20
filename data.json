@@ -44,6 +44,11 @@
             "imageUrl": "https://i.ibb.co/7JSrPddT/Picsart-25-09-16-17-16-39-445.jpg",
             "m3uLink": "https://fakeall12398-sketch.github.io/JIO_TV/Opplex.m3u"
         },
+           {
+    "title": "SONY LIV",
+    "imageUrl": "https://iili.io/3vYIQcX.png",
+    "m3uLink": "https://fakeall12398-sketch.github.io/JIO_TV/sony.m3u"
+    },
          {
         "title": "TATA PLAY",
         "imageUrl": "https://i.ibb.co/Kc76JJ9w/Picsart-25-09-16-17-14-22-683.jpg",
@@ -58,11 +63,6 @@
         "title": "Anya Tv",
         "imageUrl": "https://i.ibb.co/v5M4C1k/Picsart-25-09-16-17-11-46-172.jpg",
         "m3uLink": "https://fakeall12398-sketch.github.io/JIO_TV/Anya.json"             
-        },
-        {
-        "title": "Jio Tv",
-        "imageUrl": "https://i.ibb.co/KxJxHmSH/Picsart-25-09-16-17-10-25-599.jpg",
-        "m3uLink": "https://fakeall12398-sketch.github.io/JIO_TV/TS-JioTV.m3u"             
         },
         {
         "title": "IPL 2025 HIGHLIGHTS",
