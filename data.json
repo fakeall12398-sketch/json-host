@@ -18,12 +18,11 @@
             "imageUrl": "https://i.ibb.co/k2JqR86L/x.jpg",
             "m3uLink": "https://fakeall12398-sketch.github.io/JIO_TV/full_channels.json"
         },
-        
         {
-            "title": "TATA & AIRTEL",
-            "imageUrl": "https://i.ibb.co/F4Cf54Zr/Picsart-25-09-18-15-17-02-017.jpg",
-            "m3uLink": "https://fakeall12398-sketch.github.io/JIO_TV/tplay.m3u"
-        },
+    "title": "SONY LIV",
+    "imageUrl": "https://i.ibb.co/x8wwtx7d/Picsart-25-09-20-14-02-56-357.jpg",
+    "m3uLink": "https://fakeall12398-sketch.github.io/JIO_TV/sony.m3u"
+    },
         {
             "title": "Zee 5",
             "imageUrl": "https://i.ibb.co/gLKgSWPw/x.jpg",
@@ -44,11 +43,12 @@
             "imageUrl": "https://i.ibb.co/7JSrPddT/Picsart-25-09-16-17-16-39-445.jpg",
             "m3uLink": "https://fakeall12398-sketch.github.io/JIO_TV/Opplex.m3u"
         },
-           {
-    "title": "SONY LIV",
-    "imageUrl": "https://i.ibb.co/x8wwtx7d/Picsart-25-09-20-14-02-56-357.jpg",
-    "m3uLink": "https://fakeall12398-sketch.github.io/JIO_TV/sony.m3u"
-    },
+        {
+            "title": "TATA & AIRTEL",
+            "imageUrl": "https://i.ibb.co/F4Cf54Zr/Picsart-25-09-18-15-17-02-017.jpg",
+            "m3uLink": "https://fakeall12398-sketch.github.io/JIO_TV/tplay.m3u"
+        },
+           
          {
         "title": "TATA PLAY",
         "imageUrl": "https://i.ibb.co/Kc76JJ9w/Picsart-25-09-16-17-14-22-683.jpg",
