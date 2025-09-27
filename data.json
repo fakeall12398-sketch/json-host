@@ -49,6 +49,19 @@
             "m3uLink": "https://fakeall12398-sketch.github.io/JIO_TV/zee.m3u"
         },
         
+        {
+        "title": "ALL IN ONE",
+        "imageUrl": "https://i.ibb.co/zW7xsbG7/images.jpg",
+        "m3uLink": "https://fakeall12398-sketch.github.io/JIO_TV/Allinone.m3u8"             
+        },
+        
+        
+       {
+        "title": "Anya Tv",
+        "imageUrl": "https://i.ibb.co/2Y1DGnxP/Anya.jpg",
+        "m3uLink": "https://fakeall12398-sketch.github.io/JIO_TV/Anya.json"             
+        },
+        
          
         
         {
