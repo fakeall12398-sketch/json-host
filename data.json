@@ -39,9 +39,7 @@
             "title": "OPPLEX TV",
             "imageUrl": "https://i.ibb.co/7JSrPddT/Picsart-25-09-16-17-16-39-445.jpg",
             "m3uLink": "https://getapks.pages.dev/opplex2.m3u"
-        },
-
-        
+        },    
         
         {
             "title": "Zee 5",
@@ -54,22 +52,7 @@
         "imageUrl": "https://i.ibb.co/zT7q7dX4/Picsart-25-09-27-18-20-48-161.jpg",
         "m3uLink": "https://fakeall12398-sketch.github.io/JIO_TV/Allinone.m3u8"             
         },
-        
-        
-       {
-        "title": "Anya Tv",
-        "imageUrl": "https://i.ibb.co/2Y1DGnxP/Anya.jpg",
-        "m3uLink": "https://fakeall12398-sketch.github.io/JIO_TV/Anya.json"             
-        },
-        
-         
-        
-        {
-            "title": "TATA & AIRTEL",
-            "imageUrl": "https://i.ibb.co/F4Cf54Zr/Picsart-25-09-18-15-17-02-017.jpg",
-            "m3uLink": "https://fakeall12398-sketch.github.io/JIO_TV/tplay.m3u"
-        },
-           
+            
          {
         "title": "TATA PLAY",
         "imageUrl": "https://i.ibb.co/Kc76JJ9w/Picsart-25-09-16-17-14-22-683.jpg",
