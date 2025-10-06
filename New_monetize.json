@@ -44,16 +44,22 @@
             "m3uLink": "https://fakeall12398-sketch.github.io/JIO_TV/zee.m3u"
         },
         {
-        "title": "ANIME FLIX",
-        "imageUrl": "https://i.ibb.co/M5xcMVFs/Picsart-25-10-05-17-27-29-095.jpg",
-        "m3uLink": "https://iptv-org.github.io/iptv/categories/animation.m3u"             
-        },
-        
-        {
         "title": "ALL IN ONE",
         "imageUrl": "https://i.ibb.co/zT7q7dX4/Picsart-25-09-27-18-20-48-161.jpg",
         "m3uLink": "https://fakeall12398-sketch.github.io/JIO_TV/Allinone.m3u8"             
         },
+        {
+        "title": "ANIME FLIX",
+        "imageUrl": "https://i.ibb.co/M5xcMVFs/Picsart-25-10-05-17-27-29-095.jpg",
+        "m3uLink": "https://iptv-org.github.io/iptv/categories/animation.m3u"             
+        },
+        {
+            "title": "⭐ Starshrare",
+            "imageUrl": "https://i.ibb.co/nMd8FmPW/Picsart-25-10-06-21-22-46-957.jpg",
+            "m3uLink": "https://fakeall12398-sketch.github.io/JIO_TV/starshare.m3u"
+        },
+        
+        
             
          {
         "title": "TATA PLAY",
