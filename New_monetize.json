@@ -12,19 +12,23 @@
     "imageUrl": "https://i.ibb.co/0jrSjtQm/Picsart-25-09-19-15-05-41-861.jpg",
     "m3uLink": "https://iptv-scraper-zilla.pages.dev/CricHD.m3u"
   },
-       
         
-        {
+ {
     "title": "SONY LIV",
     "imageUrl": "https://i.ibb.co/x8wwtx7d/Picsart-25-09-20-14-02-56-357.jpg",
     "m3uLink": "https://fakeall12398-sketch.github.io/JIO_TV/sony.m3u"
-    },
-        {
-        "title": "Jio Tv+",
-        "imageUrl": "https://i.ibb.co/HL1CbtbL/Picsart-25-09-16-17-23-33-765.jpg",
-        "m3uLink": "https://fakeall12398-sketch.github.io/JIO_TV/jstar.m3u"             
+  },
+  {
+     "title": "Jio Tv+",
+      "imageUrl": "https://i.ibb.co/HL1CbtbL/Picsart-25-09-16-17-23-33-765.jpg",
+      "m3uLink": "https://fakeall12398-sketch.github.io/JIO_TV/jstar.m3u"             
       },
-        {
+  {
+            "title": "24/7",
+            "imageUrl": "https://i.ibb.co/fdY2GBcR/Picsart-25-10-11-13-01-11-447.jpg",
+            "m3uLink": "https://fakeall12398-sketch.github.io/JIO_TV/24_7_channels.m3u"
+        },
+ {
     "title": "MOVIE TIME",
     "imageUrl": "https://i.ibb.co/wNmr9HMB/Picsart-25-10-05-17-33-16-943.jpg",
     "m3uLink": "https://iptv-org.github.io/iptv/categories/movies.m3u"
