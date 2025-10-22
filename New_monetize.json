@@ -112,7 +112,70 @@
         "title": "RCB VS PKBS FINAL ALL CLIPS",
         "imageUrl": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_640/sources/r1/cms/prod/648/1748918450648-h",
         "m3uLink": "https://fakeall12398-sketch.github.io/JIO_TV/Rcb vs Pbks.m3u"             
-        }
+        },
+        
+  {
+    "title": "FANCODE LIVE",
+    "imageUrl": "https://i.ibb.co/mCL529XZ/o-JAHq-PZi-Pnb.jpg",
+    "m3uLink": "https://raw.githubusercontent.com/drmlive/fancode-live-events/refs/heads/main/fancode.m3u"
+  },
+  {
+    "title": "TATA TV ",
+    "imageUrl": "https://i.gifer.com/3P086.gif",
+    "m3uLink": "https://getapks.pages.dev/tatatv.m3u"
+  },
+  {
+    "title": "ZEE 5",
+    "imageUrl": "https://i.gifer.com/3Ozvt.gif",
+    "m3uLink": "https://getapks.pages.dev/Zee5.m3u"
+  },
+  {
+    "title": "SONY LIV",
+    "imageUrl": "https://i.gifer.com/3Ozve.gif",
+    "m3uLink": "https://livetv-cb7.pages.dev/Slivplaylist"
+  },
+  {
+    "title": "JIO HOTSTAR",
+    "imageUrl": "https://i.gifer.com/3Ozvs.gif",
+    "m3uLink": "https://livetv-cb7.pages.dev/hotstar"
+  },
+  {
+    "title": "AIRTEL TV",
+    "imageUrl": "https://e7.pngegg.com/pngimages/314/722/png-clipart-airtel-digital-tv-direct-to-home-television-in-india-bharti-airtel-dish-tv-db-satellit-sale-lable-television-text-thumbnail.png",
+    "m3uLink": "https://m3u-fetcher.vercel.app/api/airtel"
+  },
+ 
+  {
+    "title": "DISH TV",
+    "imageUrl": "https://i.gifer.com/3Ozvh.gif",
+    "m3uLink": "https://secured786.netlify.app/zee5"
+  },
+  {
+    "title": "CRIC HD 🏏",
+    "imageUrl": "https://i.gifer.com/3Ozvn.gif",
+    "m3uLink": "https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/ALL.m3u"
+  },
+  {
+    "title": "SUN NXT ☀️",
+    "imageUrl": "https://i.gifer.com/3Ozvj.gif",
+    "m3uLink": "https://m3u-fetcher.vercel.app/sunnxt.m3u"
+  },
+  {
+    "title": "4K TV 📺",
+    "imageUrl": "https://i.gifer.com/3P06q.gif",
+    "m3uLink": "https://getapks.pages.dev/4k.m3u"
+  },
+  {
+    "title": "MOVIES",
+    "imageUrl": "https://i.gifer.com/3Ozvl.gif",
+    "m3uLink": "https://freelivtv.xyz/app/movies.php"
+  },
+  {
+    "title": "OPPLEX TV",
+    "imageUrl": "https://i.ibb.co/N6M4dwV9/x.jpg",
+    "m3uLink": "https://getapks.pages.dev/opplex2.m3u"
+  }
+        
         
     ]
 }
