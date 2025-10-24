@@ -2,11 +2,7 @@
 {
     "telegram": "https://t.me/ALPHADECODER",
     "containers": [
-        {
-    "title": "Asia Cup Live 🏆",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaYmPg3Y0ewyGw39azX_NXBPOA3NLKMQCmF_yiWJkMtYvEG70hQKhYixojiZxmSGP92hy4w5V0MMov5lvm8e306uCY_YdTT7zzr3cbmt5E_WgQJ3L4r1jXL1tVwUDszn-PnR5-UKc14_itH0j-GcBrvoCAt9g5lkPlZ9p_0WSHpk-nKTDUIQuuLNx8Ftm1/s1000/giphy.gif",
-    "m3uLink": "https://fakeall12398-sketch.github.io/JIO_TV/live_events.m3u"
-  },
+        
         {
     "title": "CricHD",
     "imageUrl": "https://i.ibb.co/0jrSjtQm/Picsart-25-09-19-15-05-41-861.jpg",
@@ -44,6 +40,11 @@
     "imageUrl": "https://i.ibb.co/wNmr9HMB/Picsart-25-10-05-17-33-16-943.jpg",
     "m3uLink": "https://iptv-org.github.io/iptv/categories/movies.m3u"
     },
+                {
+    "title": "SONY LIV",
+    "imageUrl": "https://i.ibb.co/x8wwtx7d/Picsart-25-09-20-14-02-56-357.jpg",
+    "m3uLink": "https://fakeall12398-sketch.github.io/JIO_TV/Sony.m3u"
+    },
 
         {
             "title": "OPPLEX TV",
@@ -69,6 +70,11 @@
         "imageUrl": "https://i.ibb.co/Kc76JJ9w/Picsart-25-09-16-17-14-22-683.jpg",
         "m3uLink": "https://fakeall12398-sketch.github.io/JIO_TV/tataplay.json"
         },
+                {
+    "title": "SUN NXT 🌞",
+    "imageUrl": "https://i.ibb.co/XfGg15BM/Picsart-25-10-24-16-31-56-559.jpg",
+    "m3uLink": "https://fakeall12398-sketch.github.io/JIO_TV/sunnext.m3u"
+    },
         
         {
         "title": "Kids World",
