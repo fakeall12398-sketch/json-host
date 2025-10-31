@@ -15,61 +15,62 @@
       "imageUrl": "https://i.ibb.co/HL1CbtbL/Picsart-25-09-16-17-23-33-765.jpg",
       "m3uLink": "https://fakeall12398-sketch.github.io/JIO_TV/jstar.m3u"             
       },
-  {
-            "title": "24/7 PrimeTv",
-            "imageUrl": "https://i.ibb.co/CsKcqTWv/Picsart-25-10-22-17-24-06-012.jpg",
-            "m3uLink": "https://fakeall12398-sketch.github.io/JIO_TV/24_7_channels.m3u"
-        },
-
         {
-        "title": "ALL IN ONE",
-        "imageUrl": "https://i.ibb.co/zT7q7dX4/Picsart-25-09-27-18-20-48-161.jpg",
-        "m3uLink": "https://fakeall12398-sketch.github.io/JIO_TV/Allinone.m3u"             
-        },
-
-        
-          {
-            "title": "Kids",
-            "imageUrl": "https://i.ibb.co/ksTVXp8j/Picsart-25-10-23-19-38-42-332.jpg",
-            "m3uLink": "https://fakeall12398-sketch.github.io/JIO_TV/kids.m3u"
-        },
-                
-        
- {
-    "title": "MOVIE TIME",
-    "imageUrl": "https://i.ibb.co/wNmr9HMB/Picsart-25-10-05-17-33-16-943.jpg",
-    "m3uLink": "https://iptv-org.github.io/iptv/categories/movies.m3u"
-    },
-                {
     "title": "SONY LIV",
     "imageUrl": "https://i.ibb.co/x8wwtx7d/Picsart-25-09-20-14-02-56-357.jpg",
     "m3uLink": "https://fakeall12398-sketch.github.io/JIO_TV/Sony.m3u"
     },
-
-        {
-            "title": "OPPLEX TV",
-            "imageUrl": "https://i.ibb.co/7JSrPddT/Picsart-25-09-16-17-16-39-445.jpg",
-            "m3uLink": "https://getapks.pages.dev/opplex2.m3u"
-        },
-          
         
         {
             "title": "Zee 5",
             "imageUrl": "https://i.ibb.co/gLKgSWPw/x.jpg",
             "m3uLink": "https://getapks.pages.dev/Zee5.m3u"
         },
+        {
+            "title": "Kids",
+            "imageUrl": "https://i.ibb.co/ksTVXp8j/Picsart-25-10-23-19-38-42-332.jpg",
+            "m3uLink": "https://fakeall12398-sketch.github.io/JIO_TV/kids.m3u"
+        },
+        {
+            "title": "TATA TV",
+            "imageUrl": "https://i.ibb.co/ksTVXp8j/Picsart-25-10-23-19-38-42-332.jpg",
+            "m3uLink": "https://fakeall12398-sketch.github.io/JIO_TV/tplay.m3u"
+        },
+        
+        {
+            "title": "OPPLEX TV",
+            "imageUrl": "https://i.ibb.co/7JSrPddT/Picsart-25-09-16-17-16-39-445.jpg",
+            "m3uLink": "https://getapks.pages.dev/opplex2.m3u"
+        },
+        
+       {
+            "title": "24/7 PrimeTv",
+            "imageUrl": "https://i.ibb.co/CsKcqTWv/Picsart-25-10-22-17-24-06-012.jpg",
+            "m3uLink": "https://fakeall12398-sketch.github.io/JIO_TV/24_7_channels.m3u"
+        },
+        {
+        "title": "TATA PLAY",
+        "imageUrl": "https://i.ibb.co/Kc76JJ9w/Picsart-25-09-16-17-14-22-683.jpg",
+        "m3uLink": "https://fakeall12398-sketch.github.io/JIO_TV/tataplay.json"
+        },
 
+        {
+        "title": "ALL IN ONE",
+        "imageUrl": "https://i.ibb.co/zT7q7dX4/Picsart-25-09-27-18-20-48-161.jpg",
+        "m3uLink": "https://fakeall12398-sketch.github.io/JIO_TV/Allinone.m3u"             
+        },             
+ {
+    "title": "MOVIE TIME",
+    "imageUrl": "https://i.ibb.co/wNmr9HMB/Picsart-25-10-05-17-33-16-943.jpg",
+    "m3uLink": "https://iptv-org.github.io/iptv/categories/movies.m3u"
+    },           
         {
         "title": "ANIME FLIX",
         "imageUrl": "https://i.ibb.co/M5xcMVFs/Picsart-25-10-05-17-27-29-095.jpg",
         "m3uLink": "https://iptv-org.github.io/iptv/categories/animation.m3u"             
         },
                  
-         {
-        "title": "TATA PLAY",
-        "imageUrl": "https://i.ibb.co/Kc76JJ9w/Picsart-25-09-16-17-14-22-683.jpg",
-        "m3uLink": "https://fakeall12398-sketch.github.io/JIO_TV/tataplay.json"
-        },
+         
                 {
     "title": "SUN NXT 🌞",
     "imageUrl": "https://i.ibb.co/XfGg15BM/Picsart-25-10-24-16-31-56-559.jpg",
